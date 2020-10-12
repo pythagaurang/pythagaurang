@@ -14,7 +14,7 @@ Fun fact: Bob Odenkirk was in 3 out of the last 5 sitcoms I watched.<br>
 I’m looking to collaborate on anything really, preferrably something in python.<br>
 </p>
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=pythagaurang&show_icons=true&theme=dark&count_private=true"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=pythagaurang&show_icons=true&theme=dark&count_private=true"><br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythagaurang&show_icons=true&theme=dark&layout=compact">
 </div>
 
