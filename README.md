@@ -6,9 +6,10 @@
 </p>
 <p align="center">
 Pronouns: He/Him <br>
-I’m currently learning flask, data analysis.<br>
 Ask me about python, pandas.<br>
-I’m looking for help with building a python community in Goa.<br>
+Interested in contributing to FOSS.<br>
+Currently learning data analysis and flask.<br>
+Looking for help with building a python community in Goa.<br>
 Fun fact: Bob Odenkirk was in 3 out of the last 5 sitcoms I watched.<br>
 </p>
 <div align="center">
