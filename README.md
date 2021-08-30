@@ -6,11 +6,8 @@
 </p>
 <p align="center">
 Pronouns: He/Him <br>
-Ask me about python, pandas.<br>
 Interested in contributing to FOSS.<br>
-Currently learning data analysis and flask.<br>
-Looking for help with building a python community in Goa.<br>
-Fun fact: Bob Odenkirk was in 3 out of the last 5 sitcoms I watched.<br>
+Currently learning Django/DRF + React JS.<br>
 </p>
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythagaurang&show_icons=true&theme=dark&layout=compact"><br>
